@@ -1,6 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@fontsource/merriweather/300.css;
+@fontsource/merriweather/400.css;
+@fontsource/merriweather/500.css;
+@fontsource/merriweather/700.css;
 
 :root {
   --foreground-rgb: 0, 0, 0;
