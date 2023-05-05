@@ -151,7 +151,7 @@ export const Navbar = () => {
     </NavWrapper>
   );
 };
-
+/* eslint-disable */
 const ListItem = React.forwardRef(
   ({ className, children, title, ...props }, forwardedRef) => (
     <li>
@@ -168,3 +168,4 @@ const ListItem = React.forwardRef(
     </li>
   )
 );
+/* eslint-enable */

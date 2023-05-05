@@ -32,7 +32,7 @@ export const MenuItem = styled.li`
 
 export const NavWrapper = styled.div`
   width: 100%;
-  height: 12vh;
+  height: 10vh;
   display: flex;
   justify-content: center;
   align-items: center;
